@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on python and bash projects
 - 📫 How to reach me:Discord=TerasHD
 - 😄 Pronouns:He/Him
-- ⚡ Fun fact:Its not a bug, its an umplanned feature!
+- ⚡ Fun fact:Its not a bug, its an unplanned feature!
 
 <!---
 VexyIon/VexyIon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
